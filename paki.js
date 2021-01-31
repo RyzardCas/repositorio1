@@ -5,7 +5,7 @@ imagenes["Tocinauro"] = "cerdo.png";
 
 var coleccion = [];
 coleccion.push( new Pakiman("Cauchin", 100, 30) );
-coleccion.push( new Pakiman("Pokacho", 10, 50) );
+coleccion.push( new Pakiman("Pokacho", 70, 50) );
 coleccion.push( new Pakiman("Tocinauro", 120, 40) );
 
 for(var freddito of coleccion)
